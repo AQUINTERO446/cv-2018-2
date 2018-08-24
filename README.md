@@ -73,39 +73,28 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 - CALIDAD DEL REPORTE 
 - CLARIDAD DEL REPORTE
 
-## Calendario y plazos
-
-                       SESSION 1            SESSION 2           STUDENT DEADLINES
-
-     W32 Aug07-Aug08    --------            0. Intro
-     W33 Aug14-Aug15    1.PYTHON            2.PANDAS
-     W34 Aug21-Aug22    3.STATS             3.STATS-PSETS         
-     W35 Aug28-Aug29    4.BAYES             4.BAYES-PSETS         
-     W35 Sep04-Sep05    QUIZPREP            QUIZ                Feb 25 PSETS 1, 2     
-     W37 Sep11-Sep12    5.ML INTRO          6.ML METHODS        Sep 14 Registro primera calificación
-     W38 Sep18-Sep19    7.NAIVE             7.NAIVE-PSETS     
-     W39 Sep25-Sep26    8.IMGINTRO          9.IMGCLASS          Sep 30 PSETS 3
-     W40 Oct02-Oct03    10.IMGCLASS         10.IMGCL- PSETS  
-     W41 Oct09-Oct10    PSETS               PSETS               Semana de trabajo independiente            
-     W42 Oct16-Oct17    QUIZPREP            QUIZ                Oct 21 PSETS 4, 5
-     W43 Oct23-Oct24    PROJECT             PROJECT    
-     W44 Oct30-Oct31    11.KMEANS		    11.KMEANS           semana FIMEC U18
-     W45 Nov06-Nov07    12.PLAN             12.PLAN-SETS	
-     W46 Nov13-Nov14    13.GA               13.GA-PSETS        
-     W47 Nov20-Nov21    14.SA               14.SA-PSET	        Dic02 PSETS 6 7 8 
-     W48 Nov27-Nov28    QUIZPREP            QUIZ		
-     W49 Dic04-Dic05    15.Deep L           15.Deep L
-     W50 Dic11-Dic12    PROJECT             PROJECT             Entrega y sustentación de proyectos
-
-     
+## Calendario 
 
 
-    Sep14 -        -> Registro primera calificación
-    Sep16 -        -> Último día cancelación materias
-    Oct08 - Oct12  -> Semana estudiantil de trabajo independiente
-    Nov30 -        -> Finalización clase
-    Dic03-Dic12    -> Evaluaciones finales
-    Dic14 -        -> Registro calificaciones finales
+    1 Computer Vision Fundamentals
+    1.1 Introduction and Applications / Video and Images
+    2 Spatial and Frequency Domain
+    2.1 Histogram Processing
+    2.2 Spatial Processing
+    2.3 Frequency Processing
+    3 Segmentation and Feature Detection 
+    3.1 Segmentation Algorithms Part 1
+    3.3 Features: Hough
+    3.4 Features: SIFT
+    4 Motion Estimation
+    4.1 Motion Estimation 
+    4.2 Motion Detection: background substraction
+    4.3 Optical Flow: Lukas Kannade
+    5 Models and Representations
+    5.1 Dictionary Representation: BoW
+    6 Machine Learning in CV
+    6.1 NN, Boosting and Face Detection, Discriminative Classifiers
+    6.2 SVM, Random Forests 
 
 
 
